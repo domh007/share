@@ -381,68 +381,6 @@
       "short_url": "https://nyti.ms/3HO8KUw"
     },
     {
-      "section": "arts",
-      "subsection": "design",
-      "title": "Buck Ellisonâ€™s Great White Society",
-      "abstract": "From the driving range to the dude ranch, an artist stages intimate, alluring portraits of U.S. hegemony from within its walls.",
-      "url": "https://www.nytimes.com/2022/06/24/arts/design/buck-ellison-white-men.html",
-      "uri": "nyt://article/528851c8-f039-54b8-995a-bf69cf93f95e",
-      "byline": "By Travis Diehl",
-      "item_type": "Article",
-      "updated_date": "2022-06-24T16:40:31-04:00",
-      "created_date": "2022-06-24T10:00:12-04:00",
-      "published_date": "2022-06-24T10:00:12-04:00",
-      "material_type_facet": "",
-      "kicker": "Criticâ€™s Notebook",
-      "des_facet": [
-        "Photography",
-        "Whites",
-        "Content Type: Personal Profile",
-        "High Net Worth Individuals"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Ellison, Buck (1987- )",
-        "Prince, Erik D"
-      ],
-      "geo_facet": [
-        "United States"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/26/arts/26buck-ellison-7/merlin_208613688_5e76f789-fcbe-498d-bf01-28eb9a0488dc-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1537,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Buck Ellisonâ€™s â€œBetsy and Elissa, Ada, Michigan, 2018,â€\u009d from 2021. The artist stages photographs with actors to focus on the contemporary face of American elitism. ",
-          "copyright": "Buck Ellison"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/06/26/arts/26buck-ellison-7/26buck-ellison-7-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Buck Ellisonâ€™s â€œBetsy and Elissa, Ada, Michigan, 2018,â€\u009d from 2021. The artist stages photographs with actors to focus on the contemporary face of American elitism. ",
-          "copyright": "Buck Ellison"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/06/26/arts/26buck-ellison-7/26buck-ellison-7-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Buck Ellisonâ€™s â€œBetsy and Elissa, Ada, Michigan, 2018,â€\u009d from 2021. The artist stages photographs with actors to focus on the contemporary face of American elitism. ",
-          "copyright": "Buck Ellison"
-        }
-      ],
-      "short_url": "https://nyti.ms/3ncU5c3"
-    },
-    {
       "section": "theater",
       "subsection": "",
       "title": "Immersed in â€˜Stranger Things,â€™ Then Strolling to Beckett",

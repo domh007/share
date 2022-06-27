@@ -24,6 +24,7 @@
 		9238ED3A2869B12300B941AE /* NewsServiceInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9238ED392869B12300B941AE /* NewsServiceInterface.swift */; };
 		9238ED3B2869B28B00B941AE /* NewsServiceInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9238ED392869B12300B941AE /* NewsServiceInterface.swift */; };
 		9238ED3F2869C4E900B941AE /* NYTFeed.json in Resources */ = {isa = PBXBuildFile; fileRef = 9238ED3E2869C4E900B941AE /* NYTFeed.json */; };
+		9238ED432869EEB000B941AE /* URLProtocol+Mock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9238ED422869EEAF00B941AE /* URLProtocol+Mock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		9238ED392869B12300B941AE /* NewsServiceInterface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsServiceInterface.swift; sourceTree = "<group>"; };
 		9238ED3E2869C4E900B941AE /* NYTFeed.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NYTFeed.json; sourceTree = "<group>"; };
 		9238ED402869CB7E00B941AE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		9238ED422869EEAF00B941AE /* URLProtocol+Mock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "URLProtocol+Mock.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 		0F430C1927D4C8A50076D2BD /* NewsTests */ = {
 			isa = PBXGroup;
 			children = (
+				9238ED412869E82500B941AE /* Utils */,
 				9238ED3D2869C44E00B941AE /* Resources */,
 				0F430C1A27D4C8A50076D2BD /* NewsTests.swift */,
 				0F7F72BC27D621F5008BEC72 /* NewsServiceTest.swift */,
@@ -199,6 +202,14 @@
 				9238ED3E2869C4E900B941AE /* NYTFeed.json */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		9238ED412869E82500B941AE /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				9238ED422869EEAF00B941AE /* URLProtocol+Mock.swift */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -346,6 +357,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9238ED3B2869B28B00B941AE /* NewsServiceInterface.swift in Sources */,
+				9238ED432869EEB000B941AE /* URLProtocol+Mock.swift in Sources */,
 				0F7F72BA27D62182008BEC72 /* NavigationProvider.swift in Sources */,
 				0F7F72B927D620A2008BEC72 /* NewsView-ViewModel.swift in Sources */,
 				0F7F72BD27D621F5008BEC72 /* NewsServiceTest.swift in Sources */,

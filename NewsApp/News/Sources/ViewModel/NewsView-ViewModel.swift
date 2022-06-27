@@ -30,16 +30,18 @@ public struct UIArticle : Hashable {
     
     private var newsService: NewsServiceInterface
     private var navigationProvider: NavigationProvider?
+    var title: String
     
     init(newsService: NewsServiceInterface) {
         self.newsService = newsService
+        self.title = "New York Times"
         newsService.setFeedDelegate(delegate: self)
         requestNewData()
         loadingState = .loading("loading...")
     }
     
     func requestNewData(){
-        newsService.getArticles()
+        newsService.fetchArticles()
     }
     
     func articleTapped(article: UIArticle){
@@ -59,7 +61,7 @@ public struct UIArticle : Hashable {
                              byline: article.byline,
                              url: article.url,
                              date: article.date,
-                             thumbnail: article.imageUrlString);
+                             thumbnail: article.imageUrlString)
         }
         self.loadingState = .articlesAvailabe(articles)
     }

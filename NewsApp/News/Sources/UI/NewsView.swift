@@ -28,7 +28,7 @@ struct NewsView: View {
                     }
                 }
                 .listStyle(GroupedListStyle())
-                .navigationBarTitle("News Articles")
+                .navigationBarTitle(vm.title)
                 .refreshable{
                     vm.requestNewData()
                 }

@@ -19,30 +19,30 @@ private struct TestNewsArticle: Codable, NewsArticle {
 
 class NewsViewModelTests: XCTestCase {
     class MockNoProgressNewsService: NewsServiceInterface {
-        var articlesRequested = false;
+        var articlesRequested = false
         func setFeedDelegate(delegate: NewsObserver) {}
-        func getArticles() {}
+        func fetchArticles() {}
     }
     
     class MockServiceRequestedGetArticlesNewsService: NewsServiceInterface {
-        var articlesRequested = false;
+        var articlesRequested = false
         func setFeedDelegate(delegate: NewsObserver) {}
-        func getArticles() { articlesRequested = true }
+        func fetchArticles() { articlesRequested = true }
     }
     
     class MockRespondWithArticlesNewsService: NewsServiceInterface {
         var modelInterface: NewsObserver?
-        var articlesRequested = false;
+        var articlesRequested = false
         func setFeedDelegate(delegate: NewsObserver) {
             self.modelInterface = delegate
         }
-        func getArticles() {
+        func fetchArticles() {
             let article = TestNewsArticle(section: "section",
-                                      title: "test title",
-                                      byline: "test byline",
-                                      date: Date(timeIntervalSince1970: 1656326456),
-                                      url: "http://bbc.co.uk",
-                                      imageUrlString: "http://bbc.co.uk/imageUrl")
+                                          title: "test title",
+                                          byline: "test byline",
+                                          date: Date(timeIntervalSince1970: 1656326456),
+                                          url: "http://bbc.co.uk",
+                                          imageUrlString: "http://bbc.co.uk/imageUrl")
             DispatchQueue.main.asyncAfter(deadline:.now() + 0.5)  {
                 self.modelInterface?.articlesReceived(articles: [article])
             }
@@ -81,7 +81,7 @@ class NewsViewModelTests: XCTestCase {
         case .loading(_):
             XCTAssert(true)
         }
-
+        
         waitForExpectations(timeout: 10)
         
         switch sut.loadingState {

@@ -7,13 +7,12 @@
 
 import Foundation
 
-
 // Implement this protocol in an async service that provides feed articles.
 protocol NewsServiceInterface: AnyObject {
     // Sets the NewsObserver delegate in the news service interface. The NewsObserver uses the data returrnd back from the NewsService.
     func setFeedDelegate(delegate: NewsObserver)
     // Calling this method initiates an (sync) fetch of articles from the news service.
-    func getArticles()
+    func fetchArticles()
 }
 
 // This protocol is the type of the delegate in NewsServiceInterface to notify observers that feed articles are available,

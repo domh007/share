@@ -51,15 +51,20 @@ private struct ViewableImage: Codable {
 }
 
 class NYTNewsService: NewsServiceInterface {
+    var session: URLSession
     weak var delegate: NewsObserver?
+    
+    init(session: URLSession = URLSession.shared) {
+        self.session = session
+    }
 
     func setFeedDelegate(delegate: NewsObserver) {
         self.delegate = delegate
     }
 
-    func getArticles() {
+    func fetchArticles() {
         guard let url = URL(string: "https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=sGecvmIXM2UIIH8QoGslprpSbAvWTqNi") else { return }
-        let task = URLSession.shared.dataTask(with: url, completionHandler: { [weak self] data , _, error in
+        let task = session.dataTask(with: url, completionHandler: { [weak self] data , _, error in
             
             guard let strongSelf = self else { return }
             guard error == nil else {

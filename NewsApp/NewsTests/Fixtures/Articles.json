@@ -1,0 +1,397 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "section": "Arts",
+    "last_updated": "2022-03-05T06:57:09-05:00",
+    "num_results": 39,
+    "results": [
+        {
+            "section": "arts",
+            "subsection": "music",
+            "title": "Too Close to Putin? Institutions Vet Artists, Uncomfortably.",
+            "abstract": "Russiaâ€™s invasion of Ukraine has led arts organizations to reconsider who performs, forcing them to confront questions about free speech and policing political views.",
+            "url": "https://www.nytimes.com/2022/03/05/arts/music/russian-artists-putin.html",
+            "uri": "nyt://article/d9078dd4-2354-5b71-acde-094227a1be55",
+            "byline": "By Javier C. HernÃ¡ndez",
+            "item_type": "Article",
+            "updated_date": "2022-03-05T14:42:22-05:00",
+            "created_date": "2022-03-05T05:00:14-05:00",
+            "published_date": "2022-03-05T05:00:14-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Culture (Arts)",
+                "Classical Music",
+                "Music",
+                "Opera"
+            ],
+            "org_facet": [
+                "Carnegie Hall",
+                "Metropolitan Opera",
+                "Bolshoi Ballet"
+            ],
+            "per_facet": [
+                "Gergiev, Valery",
+                "Netrebko, Anna",
+                "Putin, Vladimir V",
+                "Trifonov, Daniil"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/06/arts/06russian-artists1/merlin_73637635_90f2a08b-0404-4f7a-96bb-28965d5a1e9f-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1369,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Russian soprano Anna Netrebko (with Mariusz Kwiecien) appearing in â€œEugene Oneginâ€ at the Metropolitan Opera in 2013. She and the Met parted ways this week after she declined to denounce President Vladimir V. Putin of Russia.",
+                    "copyright": "Sara Krulwich/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/06/arts/06russian-artists1/06russian-artists1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 401,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Russian soprano Anna Netrebko (with Mariusz Kwiecien) appearing in â€œEugene Oneginâ€ at the Metropolitan Opera in 2013. She and the Met parted ways this week after she declined to denounce President Vladimir V. Putin of Russia.",
+                    "copyright": "Sara Krulwich/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/06/arts/06russian-artists1/06russian-artists1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Russian soprano Anna Netrebko (with Mariusz Kwiecien) appearing in â€œEugene Oneginâ€ at the Metropolitan Opera in 2013. She and the Met parted ways this week after she declined to denounce President Vladimir V. Putin of Russia.",
+                    "copyright": "Sara Krulwich/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3vGbXRS"
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "Hollywood Bets Big on the Bad Entrepreneur",
+            "abstract": "With limited series like â€œThe Dropout,â€ â€œWeCrashedâ€ and â€œSuper Pumped,â€ the culture is saturated with ripped-from-the-headlines tales of self-immolating moguls.",
+            "url": "https://www.nytimes.com/2022/03/05/arts/the-dropout-super-pumped-wecrashed-moguls.html",
+            "uri": "nyt://article/67a41e79-e875-52c9-aaa7-2240c8b70af8",
+            "byline": "By Amanda Hess",
+            "item_type": "Article",
+            "updated_date": "2022-03-05T11:59:53-05:00",
+            "created_date": "2022-03-05T05:00:16-05:00",
+            "published_date": "2022-03-05T05:00:16-05:00",
+            "material_type_facet": "",
+            "kicker": "Criticâ€™s Notebook",
+            "des_facet": [
+                "Television",
+                "Entrepreneurship",
+                "Start-ups",
+                "Computers and the Internet",
+                "The Dropout (TV Program)",
+                "Super Pumped (TV Program)",
+                "WeCrashed (TV Program)",
+                "Inventing Anna (TV Program)",
+                "The Social Network (Movie)"
+            ],
+            "org_facet": [
+                "Theranos Inc",
+                "Uber Technologies Inc",
+                "WeWork Companies Inc",
+                "Facebook Inc"
+            ],
+            "per_facet": [
+                "Holmes, Elizabeth (1984- )",
+                "Kalanick, Travis",
+                "Neumann, Adam",
+                "Sorokin, Anna (Anna Delvey)",
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/07/arts/04bad-entrepreneurs-holmes/04bad-entrepreneurs-holmes-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Theranos founder Elizabeth Holmes was recently convicted of four counts of fraud.",
+                    "copyright": "Photo Illustration by The New York Times; HBO (Elizabeth Holmes)"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/07/arts/04bad-entrepreneurs-holmes/04bad-entrepreneurs-holmes-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Theranos founder Elizabeth Holmes was recently convicted of four counts of fraud.",
+                    "copyright": "Photo Illustration by The New York Times; HBO (Elizabeth Holmes)"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/07/arts/04bad-entrepreneurs-holmes/04bad-entrepreneurs-holmes-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Theranos founder Elizabeth Holmes was recently convicted of four counts of fraud.",
+                    "copyright": "Photo Illustration by The New York Times; HBO (Elizabeth Holmes)"
+                }
+            ],
+            "short_url": "https://nyti.ms/3vBZ8bn"
+        },
+        {
+            "section": "books",
+            "subsection": "review",
+            "title": "Erin Entrada Kelly on the Stranger Within",
+            "abstract": "When a mysterious outsider joins a small-town Louisiana classroom, in Erin Entrada Kellyâ€™s â€œThose Kids From Fawn Creek,â€ everything changes.",
+            "url": "https://www.nytimes.com/2022/03/04/books/review/erin-entrada-kelly-those-kids-from-fawn-creek.html",
+            "uri": "nyt://article/38ad43d5-f074-5a26-a32f-b2c4584f2d0c",
+            "byline": "By Holly Goldberg Sloan",
+            "item_type": "Article",
+            "updated_date": "2022-03-04T10:53:52-05:00",
+            "created_date": "2022-03-04T01:39:46-05:00",
+            "published_date": "2022-03-04T01:39:46-05:00",
+            "material_type_facet": "",
+            "kicker": "Childrenâ€™s Books",
+            "des_facet": [
+                "Books and Literature",
+                "Children and Childhood",
+                "genre-books-childrens",
+                "Those Kids From Fawn Creek (Book)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kelly, Erin Entrada"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/06/books/review/06-BKS-KIDS-02/06-BKS-KIDS-02-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 952,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/06/books/review/06-BKS-KIDS-02/06-BKS-KIDS-02-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/06/books/review/06-BKS-KIDS-02/06-BKS-KIDS-02-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3vDhb10"
+        },
+        {
+            "section": "theater",
+            "subsection": "",
+            "title": "â€˜On Sugarlandâ€™ Review: A Nameless War, and Too Many Wounds to Count",
+            "abstract": "Inspired by Sophoclesâ€™ â€œPhiloctetes,â€ Aleshea Harris uses poetic language, songs and symbolism to explore the trauma of being alive, especially for Black people.",
+            "url": "https://www.nytimes.com/2022/03/03/theater/on-sugarland-review.html",
+            "uri": "nyt://article/7ddace60-ba9b-579f-948c-fbabb59c4014",
+            "byline": "By Maya Phillips",
+            "item_type": "Article",
+            "updated_date": "2022-03-04T22:52:32-05:00",
+            "created_date": "2022-03-03T20:02:49-05:00",
+            "published_date": "2022-03-03T20:02:49-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Black People",
+                "Race and Ethnicity",
+                "Theater",
+                "Women and Girls",
+                "Funerals and Memorials",
+                "On Sugarland (Play)"
+            ],
+            "org_facet": [
+                "New York Theater Workshop"
+            ],
+            "per_facet": [
+                "Harris, Aleshea",
+                "White, Whitney",
+                "Kelly, Raja Feather"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/05/arts/03SUGARLAND-1/merlin_203124645_3e4731ef-ebb5-42f4-977d-12a9e3d6af53-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1420,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "KiKi Layne, standing left, and Billy Eugene Jones, standing center, in â€œOn Sugarlandâ€ at the New York Theater Workshop.",
+                    "copyright": "Sara Krulwich/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/05/arts/03SUGARLAND-1/03SUGARLAND-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "KiKi Layne, standing left, and Billy Eugene Jones, standing center, in â€œOn Sugarlandâ€ at the New York Theater Workshop.",
+                    "copyright": "Sara Krulwich/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/05/arts/03SUGARLAND-1/03SUGARLAND-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "KiKi Layne, standing left, and Billy Eugene Jones, standing center, in â€œOn Sugarlandâ€ at the New York Theater Workshop.",
+                    "copyright": "Sara Krulwich/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/35MsWHw"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Alan Ladd Jr., Hitmaking Film Executive, Dies at 84",
+            "abstract": "When other studios didnâ€™t want it, he took on the project that became â€œStar Wars.â€ He later guided â€œChariots of Fire,â€ â€œYoung Frankensteinâ€ and numerous other movies.",
+            "url": "https://www.nytimes.com/2022/03/03/movies/alan-ladd-dead.html",
+            "uri": "nyt://article/3dc6dc7e-2a44-5351-9f63-972bb69aea78",
+            "byline": "By Neil Genzlinger",
+            "item_type": "Article",
+            "updated_date": "2022-03-04T09:20:02-05:00",
+            "created_date": "2022-03-03T19:28:27-05:00",
+            "published_date": "2022-03-03T19:28:27-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Movies",
+                "Star Wars (Movie)",
+                "Young Frankenstein (Movie)",
+                "Moonstruck (Movie)",
+                "Chariots of Fire (Movie)",
+                "Alien (Movie)",
+                "Braveheart (Movie)"
+            ],
+            "org_facet": [
+                "Metro-Goldwyn-Mayer Inc",
+                "Twentieth Century Fox",
+                "Ladd Co"
+            ],
+            "per_facet": [
+                "Ladd, Alan Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/04/obituaries/03Ladd2-print2/03Ladd2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1535,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The producer and studio executive Alan Ladd Jr. in an undated photo. He often saw potential in filmmakersâ€™ ideas where others did not.",
+                    "copyright": "Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/04/obituaries/03Ladd2-print2/03Ladd2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The producer and studio executive Alan Ladd Jr. in an undated photo. He often saw potential in filmmakersâ€™ ideas where others did not.",
+                    "copyright": "Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/04/obituaries/03Ladd2-print2/03Ladd2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The producer and studio executive Alan Ladd Jr. in an undated photo. He often saw potential in filmmakersâ€™ ideas where others did not.",
+                    "copyright": "Alamy"
+                }
+            ],
+            "short_url": "https://nyti.ms/35ot0xk"
+        },
+        {
+            "section": "arts",
+            "subsection": "television",
+            "title": "How Much Watching Time Do You Have This Weekend?",
+            "abstract": "Our critic recommends a flashy new show about the Showtime Lakers and a docu-series about stolen bugs. Also: One of the best â€™90s sitcoms is finally streaming in full.",
+            "url": "https://www.nytimes.com/2022/03/03/arts/television/winning-time-bug-out.html",
+            "uri": "nyt://article/5991a9ea-a1a4-5f77-a6bb-2ad015a02d23",
+            "byline": "By Margaret Lyons",
+            "item_type": "Article",
+            "updated_date": "2022-03-04T00:20:01-05:00",
+            "created_date": "2022-03-03T17:48:07-05:00",
+            "published_date": "2022-03-03T17:48:07-05:00",
+            "material_type_facet": "",
+            "kicker": "The Watching Newsletter",
+            "des_facet": [
+                "Television",
+                "Winning Time: The Rise of the Lakers Dynasty (TV Program)",
+                "Bug Out (TV Program)",
+                "NewsRadio (TV Program)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/04/arts/03Watching-WinningTime/03Watching-WinningTime-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1280,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Quincy Isaiah in a scene from â€œWinning Time: The Rise of the Lakers Dynasty.â€",
+                    "copyright": "Warrick Page/HBO "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/04/arts/03Watching-WinningTime/03Watching-WinningTime-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Quincy Isaiah in a scene from â€œWinning Time: The Rise of the Lakers Dynasty.â€",
+                    "copyright": "Warrick Page/HBO "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/04/arts/03Watching-WinningTime/03Watching-WinningTime-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Quincy Isaiah in a scene from â€œWinning Time: The Rise of the Lakers Dynasty.â€",
+                    "copyright": "Warrick Page/HBO "
+                }
+            ],
+            "short_url": "https://nyti.ms/3pA3iMY"
+        }
+    ]
+}
